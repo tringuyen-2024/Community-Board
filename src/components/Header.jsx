@@ -6,9 +6,9 @@ export default function Header() {
     <div className='header'>
       <h1>
         DePauw's upcoming events!
-        <h6 className = 'intro'>
+        <div className = 'intro'>
           This is the community board for DePauw University. Here you will find a list of upcomming events off campus.
-        </h6>
+        </div>
       </h1>
     </div>
   )
